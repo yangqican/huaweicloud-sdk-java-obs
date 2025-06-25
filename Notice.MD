@@ -214,6 +214,7 @@ Copyright 2013-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 Copyright 2019 Huawei Technologies Co.,Ltd.
 
 
+<<<<<<< HEAD
 License: Apache License V2.0
 Please see above.
 
@@ -241,6 +242,10 @@ Copyright (c) 2012, The Android Open Source Project
 
 License: Apache License V2.0   
 Please see above.  
+=======
+License:   
+
+>>>>>>> parent of 6ca106f (Update Notice.MD)
 
 Software: aliyun-oss-sdk 2.6.1  
 Copyright notice:     
@@ -259,6 +264,7 @@ Copyright 2007-2019 the FasterXML.com.
 License: Apache License V2.0  
 Please see above.  
 
+<<<<<<< HEAD
 Software: jackson-core-2.9.9
 Copyright notice:   
 Copyright 2007-2019 Tatu Saloranta (tatu.saloranta@iki.fi).   
@@ -279,6 +285,9 @@ License: Apache License V2.0
 Please see above.
 
 Software: java-xmlbuilder-1.1	
+=======
+Software: java-xmlbuilder-1.1	  
+>>>>>>> parent of 6ca106f (Update Notice.MD)
 Copyright notice:   
 Copyright 2008-2014 James Murty (www.jamesmurty.com)  
 
